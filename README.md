@@ -5,7 +5,7 @@
 
 ### Bem-vindo ao Projeto Star Wars!
 
-Este projeto é uma aplicação web que foi inspirada em conteudos do arsenal do site codepen.io desenvolvida para a atividade do 2º Bimestre [Trabalho 4] - CSS Avançado
+Este projeto é uma aplicação web que foi inspirada em conteudos do arsenal do site codepen.io desenvolvida para a atividade do 2º Bimestre [Trabalho 4] - CSS Avançado.
 
 #### Objetivo:
 
