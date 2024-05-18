@@ -17,3 +17,7 @@ Modificar animações já existem será válido desde que as alteração sejam b
 #### Projeto:
 
 O projeto se trata da animacao inicial dos filmes da franquia do STAR WARS, utilizando as linguagens HTML e CSS com a insercao do framework Animate dentro da linguagem CSS. Tambem foi inserido um texto sarcastico e com muito humor em grego para que o professor possa se divertir com a traducao!
+
+#### Link Codepen:
+
+https://codepen.io/ThiagoDav/pen/eYaJebW
